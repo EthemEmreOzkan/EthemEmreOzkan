@@ -22,7 +22,7 @@ AI ve NPC navigasyonu için **hiyerarşik node sistemi** ve **A* algoritması** 
 
 **Tech Stack:** Unity, C#, Gemini API, Procedural Generation
 
-📦 **[v0.1.0 Pre-release](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/releases/tag/0.1.0)** | 📦 **[v0.2.0 Public-Test]()** | 🔄 **v0.3.0 Geliştiriliyor**
+📦 **[v0.1.0 Pre-release](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/releases/tag/0.1.0)** | 📦 **[v0.2.0 Public-Test](https://github.com/EthemEmreOzkan/02-Unity-Project_Suspicion-Prototype/releases/tag/0.2.0)** | 🔄 **v0.3.0 Geliştiriliyor**
 
 ---
 
@@ -42,3 +42,4 @@ AI ve NPC navigasyonu için **hiyerarşik node sistemi** ve **A* algoritması** 
 ---
 
 > 💡 **Not:** Detaylı proje açıklamaları, teknik dokümanlar ve arşiv için [00-EEO-Projects](https://github.com/EthemEmreOzkan/00-EEO-Projects) reposunu ziyaret edin.
+
