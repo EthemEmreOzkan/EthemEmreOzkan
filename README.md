@@ -39,7 +39,9 @@ AI ve NPC navigasyonu için **hiyerarşik node sistemi** ve **A* algoritması** 
 
 - 📧 **Email:** ethememreozkan@gmail.com
 - 📱**Telefon No:** 0543 475 8502
+- 💼 **Linkedln:** [Ethem Emre Özkan](https://www.linkedin.com/in/ethememreozkan/)
 ---
 
 > 💡 **Not:** Detaylı proje açıklamaları, teknik dokümanlar ve arşiv için [00-EEO-Projects](https://github.com/EthemEmreOzkan/00-EEO-Projects) reposunu ziyaret edin.
+
 
